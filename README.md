@@ -1,5 +1,6 @@
 # Hello-World
 Første prosjekt - test
 
-Dette er en test, for å integrere endringer
 
+Hi 
+This is my first GitHub project. This is for my personal development only. 
